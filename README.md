@@ -27,6 +27,8 @@
  
  ## 🚀&nbsp; Installation and Documentation
  
+ ## 💻&nbsp; Tech Stack
+ 
  ## ✅&nbsp; Requirements
  
 ## 📘&nbsp; License
