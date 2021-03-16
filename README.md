@@ -20,20 +20,20 @@
 
 </div>
 
- ## 💻&nbsp; Preview
+ # 💻&nbsp; Preview
 
  <div align="center">
   <img alt="NU-Connect logo" src="https://i.imgur.com/KuddZoJ.png" width="1000px" />
  </div>
  
  
- ## 🚀&nbsp; Installation and Documentation
+# 🚀&nbsp; Installation and Documentation
  
- ## 📱&nbsp; Tech Stack
+# 📱&nbsp; Tech Stack
  
- ## ✅&nbsp; Requirements
+# ✅&nbsp; Requirements
  
-## 📘&nbsp; License
+# 📘&nbsp; License
 NU Connect is released under the under terms of the [MIT License](LICENSE).
 
 ## 🎓&nbsp; Team
