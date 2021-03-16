@@ -3,7 +3,7 @@
 
 <div align="center">
   <img alt="NU-Connect logo" src="https://i.imgur.com/ufahi0n.png" width="500px" />
-
+[PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
  </div>
  
 <p align="center">
