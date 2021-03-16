@@ -1,5 +1,5 @@
 # Don't fork anything
-## Do changes Directly
+## Make changes Directly
 
 <div align="center">
   <img alt="NU-Connect logo" src="https://i.imgur.com/ufahi0n.png" width="500px" />
