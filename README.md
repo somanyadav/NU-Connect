@@ -20,14 +20,16 @@
 
 </div>
 
- 
+ ## 💻&nbsp; Preview
+
  <div align="center">
   <img alt="NU-Connect logo" src="https://i.imgur.com/KuddZoJ.png" width="1000px" />
  </div>
  
+ 
  ## 🚀&nbsp; Installation and Documentation
  
- ## 💻&nbsp; Tech Stack
+ ## 📱&nbsp; Tech Stack
  
  ## ✅&nbsp; Requirements
  
