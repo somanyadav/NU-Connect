@@ -14,7 +14,8 @@
 <h1 align="center"> ⭐️ HackNU 3.0 ⭐️ </h1>
 <h2 align="center"><strong>👉 NU Connect 👈</strong></h2>
  
- ### NU-Connect provide services and contains information regarding nearby places, cab appointments, virtual tour, food ordering fron inner as well as outer food hubs of NU and so much more!
+<div align="center">  NU-Connect provide services and contains information regarding nearby places, cab appointments, virtual tour, food ordering fron inner as well as outer food hubs of NU and so much more!
+</div>
  
  <div align="center">
   <img alt="NU-Connect logo" src="https://i.imgur.com/KuddZoJ.png" width="1000px" />
