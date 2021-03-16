@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#">
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
-    <img alt="Get it on Google Play" title="Chrome" src="https://i.imgur.com/H4k5Dlv.pngg" width="140">
+    <img alt="Open in Chrome" title="Chrome" src="https://i.imgur.com/fezfnts.png" width="140">
   </a>
 </p>
 
