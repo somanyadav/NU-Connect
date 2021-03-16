@@ -10,6 +10,9 @@
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
   </a>
 </p>
+
+<h1 align="center"> ⭐️ HackNU 3.0 ⭐️ </h1>
+<h2 align="center"><strong>👉 NU Connect 👈</strong></h2>
  
  ### NU-Connect provide services and contains information regarding nearby places, cab appointments, virtual tour, food ordering fron inner as well as outer food hubs of NU and so much more!
  
