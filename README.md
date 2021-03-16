@@ -36,7 +36,7 @@
 # 📘&nbsp; License
 NU Connect is released under the under terms of the [MIT License](LICENSE).
 
-## 🎓&nbsp; Team
+# 🎓&nbsp; Team
 <table>
 	<thead>
 	<tr>
