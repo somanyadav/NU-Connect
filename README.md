@@ -25,6 +25,7 @@
  ## ✅&nbsp; Requirements
  
 ## 📘&nbsp; License
+NU Connect is released under the under terms of the [MIT License](LICENSE).
 
 ## 🎓&nbsp; Team
 <table>
