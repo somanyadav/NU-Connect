@@ -5,9 +5,9 @@
   <img alt="NU-Connect logo" src="https://i.imgur.com/ufahi0n.png" width="600px" />
  </div>
  
- <p align="center">
-  <a href="https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8">
-    <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
+<p align="center">
+  <a href="#">
+    <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
   </a>
 </p>
  
