@@ -33,11 +33,9 @@
 		<td>
 			<img width="100" alt="Diksha Dutt" src="https://www.wallsandfloors.co.uk/media/catalog/product/cache/1/thumbnail/250x250/9df78eab33525d08d6e5fb8d27136e95/m/a/matt-black-100x100-tiles-spellbound-tiles-zoom-image_2.jpg">
 		</td>
-    <td>
+   		<td>
 			<img width="100" alt="Kushagra Mishra" src="https://www.wallsandfloors.co.uk/media/catalog/product/cache/1/thumbnail/250x250/9df78eab33525d08d6e5fb8d27136e95/m/a/matt-black-100x100-tiles-spellbound-tiles-zoom-image_2.jpg">
 		</td>
-	</tr>
-	<tr>
 		<td>
 			<img width="100" alt="Prabsaran Singh" src="https://www.wallsandfloors.co.uk/media/catalog/product/cache/1/thumbnail/250x250/9df78eab33525d08d6e5fb8d27136e95/m/a/matt-black-100x100-tiles-spellbound-tiles-zoom-image_2.jpg">
 		</td>
