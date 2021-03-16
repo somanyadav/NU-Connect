@@ -13,9 +13,17 @@
 
 <h1 align="center"> ⭐️ HackNU 3.0 ⭐️ </h1>
 <h2 align="center"><strong>👉 NU Connect 👈</strong></h2>
+
  
-<div align="center">  NU-Connect provide services and contains information regarding nearby places, cab appointments, virtual tour, food ordering fron inner as well as outer food hubs of NU and so much more!
+<div align="center">  
+	As the name suggests, this website connects you to different services. Wanna explore the campus sitting in your room? Take a virtual tour of University and know your spot in the greenest campus. Also, NU-Connect let's you to order your food in mess as per your requirement. So, say bye-bye to food wastage.
+	
+<br>
+	
+We all know how it feels when we forget our id card in room while going out. Now, with NU-Connect you can show your id card via AR technology just by scanning a QR code. NU-CONNECT helps you to know about events in advance so that you can manage your time tables and there are no clashes with your important tasks.
+
 </div>
+
  
  <div align="center">
   <img alt="NU-Connect logo" src="https://i.imgur.com/KuddZoJ.png" width="1000px" />
