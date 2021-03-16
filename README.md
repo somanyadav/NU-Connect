@@ -3,9 +3,9 @@
 
 <div align="center">
   <img alt="NU-Connect logo" src="https://i.imgur.com/ufahi0n.png" width="500px" />
-
+  [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)]
  </div>
- [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+ 
 <p align="center">
   <a href="#">
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
