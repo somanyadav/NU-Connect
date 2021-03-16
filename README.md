@@ -4,8 +4,6 @@
 <div align="center">
   <img alt="NU-Connect logo" src="https://i.imgur.com/ufahi0n.png" width="500px" />
  </div>
- ## k
-  ![open issues](https://img.shields.io/github/issues/somanyadav/NU-Connect?color=%2319a249)
  
 <p align="center">
   <a href="#">
