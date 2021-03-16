@@ -28,21 +28,21 @@
 	<thead>
 	<tr>
 		<td>
-			<img width="289" alt="code-one" src="https://www.wallsandfloors.co.uk/media/catalog/product/cache/1/thumbnail/250x250/9df78eab33525d08d6e5fb8d27136e95/m/a/matt-black-100x100-tiles-spellbound-tiles-zoom-image_2.jpg">
+			<img width="100" alt="Soman Yadav" src="https://www.wallsandfloors.co.uk/media/catalog/product/cache/1/thumbnail/250x250/9df78eab33525d08d6e5fb8d27136e95/m/a/matt-black-100x100-tiles-spellbound-tiles-zoom-image_2.jpg">
 		</td>
 		<td>
-			<img width="306" alt="render-one" src="https://www.wallsandfloors.co.uk/media/catalog/product/cache/1/thumbnail/250x250/9df78eab33525d08d6e5fb8d27136e95/m/a/matt-black-100x100-tiles-spellbound-tiles-zoom-image_2.jpg">
+			<img width="100" alt="Diksha Dutt" src="https://www.wallsandfloors.co.uk/media/catalog/product/cache/1/thumbnail/250x250/9df78eab33525d08d6e5fb8d27136e95/m/a/matt-black-100x100-tiles-spellbound-tiles-zoom-image_2.jpg">
 		</td>
     <td>
-			<img width="306" alt="render-one" src="https://www.wallsandfloors.co.uk/media/catalog/product/cache/1/thumbnail/250x250/9df78eab33525d08d6e5fb8d27136e95/m/a/matt-black-100x100-tiles-spellbound-tiles-zoom-image_2.jpg">
+			<img width="100" alt="Kushagra Mishra" src="https://www.wallsandfloors.co.uk/media/catalog/product/cache/1/thumbnail/250x250/9df78eab33525d08d6e5fb8d27136e95/m/a/matt-black-100x100-tiles-spellbound-tiles-zoom-image_2.jpg">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img width="381" alt="code-two" src="https://www.wallsandfloors.co.uk/media/catalog/product/cache/1/thumbnail/250x250/9df78eab33525d08d6e5fb8d27136e95/m/a/matt-black-100x100-tiles-spellbound-tiles-zoom-image_2.jpg">
+			<img width="100" alt="Prabsaran Singh" src="https://www.wallsandfloors.co.uk/media/catalog/product/cache/1/thumbnail/250x250/9df78eab33525d08d6e5fb8d27136e95/m/a/matt-black-100x100-tiles-spellbound-tiles-zoom-image_2.jpg">
 		</td>
 		<td>
-			<img width="307" alt="render-two" src="https://www.wallsandfloors.co.uk/media/catalog/product/cache/1/thumbnail/250x250/9df78eab33525d08d6e5fb8d27136e95/m/a/matt-black-100x100-tiles-spellbound-tiles-zoom-image_2.jpg">
+			<img width="100" alt="Shailesh Shiroha" src="https://www.wallsandfloors.co.uk/media/catalog/product/cache/1/thumbnail/250x250/9df78eab33525d08d6e5fb8d27136e95/m/a/matt-black-100x100-tiles-spellbound-tiles-zoom-image_2.jpg">
 		</td>
 	</tr>
 </table>
