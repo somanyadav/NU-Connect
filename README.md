@@ -3,7 +3,7 @@
 
 <div align="center">
   <img alt="NU-Connect logo" src="https://i.imgur.com/ufahi0n.png" width="500px" />
-  ![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](http://cv.lbesson.qc.to/)
+
  </div>
  
 <p align="center">
