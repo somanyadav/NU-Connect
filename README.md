@@ -3,6 +3,7 @@
 
 <div align="center">
   <img alt="NU-Connect logo" src="https://i.imgur.com/MGJNqi9.png" width="500px" />
+	<img alt="NU-Connect logo" src="https://i.imgur.com/8p5WwXY.png" width="500px" />
  </div>
  
 <p align="center">
