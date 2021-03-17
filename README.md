@@ -13,7 +13,7 @@
 </p>
 
 <h1 align="center"> ⭐️ HackNU 3.0 ⭐️ </h1>
-
+<h2 align="center"><strong>👉 NU Connect 👈</strong></h2>
 
  
 <div align="center">  
