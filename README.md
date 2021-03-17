@@ -37,7 +37,7 @@
 # ✅&nbsp; Requirements
 
 # 🔗&nbsp; Links
-<h3> -> Presentation : https://drive.google.com/file/d/19Lw7Lm4AuOa_EAc_3ttaeFA3pedjB1EE/view?usp=sharing </h3>
+<h3> -> <a href="https://drive.google.com/file/d/19Lw7Lm4AuOa_EAc_3ttaeFA3pedjB1EE/view?usp=sharing"> Presentation </a> </h3>
  
 # 📘&nbsp; License
 NU Connect is released under the under terms of the [MIT License](LICENSE).
