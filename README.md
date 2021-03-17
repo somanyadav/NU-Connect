@@ -46,16 +46,16 @@ NU Connect is released under the under terms of the [MIT License](LICENSE).
 	<thead>
 	<tr>
 		<td>
-			<img width="100" alt="Soman Yadav" src="https://ideate-zero.github.io/zerobug/images/Soman.png">
-			<p> Soman Yadav </p>
+			<img width="100" alt="Kushagra Mishra" src="https://ideate-zero.github.io/zerobug/images/Kushagra.png">
+			<p> Kushagra Mishra </p>
 		</td>
 		<td>
 			<img width="100" alt="Diksha Dutt" src="https://ideate-zero.github.io/zerobug/images/Diksha.png">
 			<p> Diksha Dutt </p>
 		</td>
-   		<td>
-			<img width="100" alt="Kushagra Mishra" src="https://ideate-zero.github.io/zerobug/images/Kushagra.png">
-			<p> Kushagra Mishra </p>
+		<td>
+			<img width="100" alt="Soman Yadav" src="https://ideate-zero.github.io/zerobug/images/Soman.png">
+			<p> Soman Yadav </p>
 		</td>
 		<td>
 			<img width="100" alt="Prabsaran Singh" src="https://ideate-zero.github.io/zerobug/images/Prabsaran.png">
