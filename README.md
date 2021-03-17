@@ -46,13 +46,13 @@ NU Connect is released under the under terms of the [MIT License](LICENSE).
 	<thead>
 	<tr>
 		<td>
-			<img width="100" alt="Soman Yadav" src="https://www.wallsandfloors.co.uk/media/catalog/product/cache/1/thumbnail/250x250/9df78eab33525d08d6e5fb8d27136e95/m/a/matt-black-100x100-tiles-spellbound-tiles-zoom-image_2.jpg">
+			<img width="100" alt="Soman Yadav" src="https://ideate-zero.github.io/zerobug/images/Soman.png">
 		</td>
 		<td>
-			<img width="100" alt="Diksha Dutt" src="https://www.wallsandfloors.co.uk/media/catalog/product/cache/1/thumbnail/250x250/9df78eab33525d08d6e5fb8d27136e95/m/a/matt-black-100x100-tiles-spellbound-tiles-zoom-image_2.jpg">
+			<img width="100" alt="Diksha Dutt" src="https://ideate-zero.github.io/zerobug/images/Diksha.png">
 		</td>
    		<td>
-			<img width="100" alt="Kushagra Mishra" src="https://www.wallsandfloors.co.uk/media/catalog/product/cache/1/thumbnail/250x250/9df78eab33525d08d6e5fb8d27136e95/m/a/matt-black-100x100-tiles-spellbound-tiles-zoom-image_2.jpg">
+			<img width="100" alt="Kushagra Mishra" src="https://ideate-zero.github.io/zerobug/images/Kushagra.png">
 		</td>
 		<td>
 			<img width="100" alt="Prabsaran Singh" src="https://www.wallsandfloors.co.uk/media/catalog/product/cache/1/thumbnail/250x250/9df78eab33525d08d6e5fb8d27136e95/m/a/matt-black-100x100-tiles-spellbound-tiles-zoom-image_2.jpg">
