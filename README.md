@@ -40,9 +40,12 @@
 <h3> -> <a href="https://drive.google.com/file/d/19Lw7Lm4AuOa_EAc_3ttaeFA3pedjB1EE/view?usp=sharing"> Presentation </a> </h3>
  
 # 📘&nbsp; License
+<b>
 NU Connect is released under the under terms of the [MIT License](LICENSE).
 
 Copyright (C) 2021 Team -Zero Bug
+
+</b>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
