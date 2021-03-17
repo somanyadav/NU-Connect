@@ -51,7 +51,7 @@ NU Connect is released under the under terms of the [MIT License](LICENSE).
 		</td>
 		<td>
 			<img width="100" alt="Diksha Dutt" src="https://ideate-zero.github.io/zerobug/images/Diksha.png">
-			<p> Diksha Dutt </p>
+			<p align="center"> Diksha Dutt </p>
 		</td>
 		<td>
 			<img width="100" alt="Soman Yadav" src="https://i.imgur.com/THE9GSj.png">
