@@ -45,10 +45,10 @@ NU Connect is released under the under terms of the [MIT License](LICENSE).
 <table>
 	<thead>
 	<tr>
-		<td>
+		<a href="https://github.com/kushagraup"><td>
 			<img width="100" alt="Kushagra Mishra" src="https://ideate-zero.github.io/zerobug/images/Kushagra.png" align="center">
 			<p align="center"> Kushagra Mishra </p>
-		</td>
+			</td></a>
 		<td>
 			<img width="100" alt="Diksha Dutt" src="https://ideate-zero.github.io/zerobug/images/Diksha.png" align="center">
 			<p align="center"> Diksha Dutt </p>
