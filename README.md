@@ -46,23 +46,23 @@ NU Connect is released under the under terms of the [MIT License](LICENSE).
 	<thead>
 	<tr>
 		<td>
-			<img width="100" alt="Kushagra Mishra" src="https://ideate-zero.github.io/zerobug/images/Kushagra.png">
+			<img width="100" alt="Kushagra Mishra" src="https://ideate-zero.github.io/zerobug/images/Kushagra.png" align="center">
 			<p align="center"> Kushagra Mishra </p>
 		</td>
 		<td>
-			<img width="100" alt="Diksha Dutt" src="https://ideate-zero.github.io/zerobug/images/Diksha.png">
+			<img width="100" alt="Diksha Dutt" src="https://ideate-zero.github.io/zerobug/images/Diksha.png" align="center">
 			<p align="center"> Diksha Dutt </p>
 		</td>
 		<td>
-			<img width="100" alt="Soman Yadav" src="https://i.imgur.com/THE9GSj.png">
+			<img width="100" alt="Soman Yadav" src="https://i.imgur.com/THE9GSj.png" align="center">
 			<p align="center"> Soman Yadav </p>
 		</td>
 		<td>
-			<img width="100" alt="Prabsaran Singh" src="https://ideate-zero.github.io/zerobug/images/Prabsaran.png">
+			<img width="100" alt="Prabsaran Singh" src="https://ideate-zero.github.io/zerobug/images/Prabsaran.png" align="center">
 			<p align="center"> Prabsaran Singh </p>
 		</td>
 		<td>
-			<img width="100" alt="Shailesh Shiroha" src="https://ideate-zero.github.io/zerobug/images/shailesh.png">
+			<img width="100" alt="Shailesh Shiroha" src="https://ideate-zero.github.io/zerobug/images/shailesh.png" align="center">
 			<p align="center"> Shailesh Shiroha </p>
 		</td>
 	</tr>
