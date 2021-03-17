@@ -54,7 +54,7 @@ NU Connect is released under the under terms of the [MIT License](LICENSE).
 			<a href="https://github.com/dikshadutt08"><p align="center"> Diksha Dutt </p></a>
 		</td>
 		<td>
-			<img width="100" alt="Soman Yadav" src="https://i.imgur.com/THE9GSj.png" align="center">
+			<img width="100" alt="Soman Yadav" src="https://i.imgur.com/iD76kAe.png" align="center">
 			<a href="https://github.com/somanyadav"><p align="center"> Soman Yadav </p></a>
 		</td>
 		<td>
