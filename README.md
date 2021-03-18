@@ -12,6 +12,13 @@
   </a>
 </p>
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <h1 align="center"> ⭐️ HackNU 3.0 ⭐️ </h1>
 <h2 align="center"><strong>👉 NU Connect 👈</strong></h2>
 
