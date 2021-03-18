@@ -24,7 +24,7 @@
  # 💻&nbsp; Preview
 
  <div align="center">
-  <img alt="NU-Connect logo" src="https://i.imgur.com/ZuWCNkI.png" width="1000px" />
+  <img alt="NU-Connect logo" src="https://i.imgur.com/DomW5dp.png" width="1000px" />
  </div>
  
  
