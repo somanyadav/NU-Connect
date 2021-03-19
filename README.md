@@ -13,8 +13,7 @@
 </p>
 
 
-<h1 align="center"> ⭐️ HackNU 3.0 ⭐️ </h1>
-<h2 align="center"><strong>👉 NU Connect 👈</strong></h2>
+<h1 align="center"> NU Connect </h1>
 
  
 <div align="center">  
@@ -22,25 +21,25 @@
 
 </div>
 
- # 💻&nbsp; Preview
+ # Preview
 
  <div align="center">
   <img alt="NU-Connect logo" src="https://i.imgur.com/KuddZoJ.png" width="1000px" />
  </div>
  
  
-# 🚀&nbsp; Installation and Documentation
+# Installation and Documentation
 
-# 📷&nbsp; Screenshots
+# Screenshots
  
-# 📱&nbsp; Tech Stack
+# Tech Stack
  
-# ✅&nbsp; Requirements
+# Requirements
 
-# 🔗&nbsp; Links
+# Links
 <h3> -> <a href="https://drive.google.com/file/d/19Lw7Lm4AuOa_EAc_3ttaeFA3pedjB1EE/view?usp=sharing"> Presentation </a> </h3>
  
-# 📘&nbsp; License
+# License
 
 ### NU Connect is released under the terms of the [MIT License](LICENSE).
 <b>
@@ -53,7 +52,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-# 🎓&nbsp; Team
+# Team
 <table>
 	<thead>
 	<tr>
