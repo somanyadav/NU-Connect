@@ -50,7 +50,7 @@
 			<a href="https://github.com/kushagraup"><p align="center"> Kushagra Mishra </p></a>
 			</td>
 		<td>
-			<img width="100" alt="Diksha Dutt" src="https://ideate-zero.github.io/zerobug/images/Diksha.png" align="center">
+			<img width="100" alt="Diksha Dutt" src="https://i.imgur.com/wnTuh6Y.png" align="center">
 			<a href="https://github.com/dikshadutt08"><p align="center"> Diksha Dutt </p></a>
 		</td>
 		<td>
