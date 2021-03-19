@@ -21,7 +21,7 @@
  # Preview
 
  <div align="center">
-  <img alt="NU-Connect logo" src="https://i.imgur.com/KuddZoJ.png" width="1000px" />
+  <img alt="NU-Connect logo" src="https://i.imgur.com/KuddZoJ.png" width="900px" />
  </div>
  
  
