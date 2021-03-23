@@ -12,7 +12,7 @@
 </p>
 
 
-# About
+## About
 
  
 <div>  
@@ -20,31 +20,31 @@
 
 </div>
 
- # Preview
+ ## Preview
 
  <div align="center">
   <img alt="NU-Connect logo" src="https://i.imgur.com/KuddZoJ.png" width="1000px" />
  </div>
  
  
-# Installation and Documentation
+## Installation and Documentation
 
-# Screenshots
+## Screenshots
  
-# Tech Stack
+## Tech Stack
  
 # Requirements
 
-# Links
+## Links
 <h3> -> <a href="https://drive.google.com/file/d/19Lw7Lm4AuOa_EAc_3ttaeFA3pedjB1EE/view?usp=sharing"> Presentation </a> </h3>
 <h3> -> <a href=""> AR Demo </a> </h3>
  
-# License
+## License
 
 ### NU Connect is released under the terms of the [MIT License](LICENSE).
 
 
-# Team
+## Contributors
 <table>
 	<thead>
 	<tr>
