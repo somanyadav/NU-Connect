@@ -39,6 +39,7 @@
  
  
 ## Installation
+NU Connect is available on Play Store.
 
 ## Screenshots
  
