@@ -1,3 +1,5 @@
+<h1 align="center"> NU Connect </h1>
+
 <div align="center">
   <img alt="NU-Connect logo" src="https://i.imgur.com/MGJNqi9.png" width="500px" />
 </div>
