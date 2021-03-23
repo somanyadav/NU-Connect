@@ -36,8 +36,8 @@
 ## Requirements
 
 ## Links
-<h3> -> <a href="https://drive.google.com/file/d/19Lw7Lm4AuOa_EAc_3ttaeFA3pedjB1EE/view?usp=sharing"> Presentation </a> </h3>
-<h3> -> <a href=""> AR Demo </a> </h3>
+<h3> * <a href="https://drive.google.com/file/d/19Lw7Lm4AuOa_EAc_3ttaeFA3pedjB1EE/view?usp=sharing"> Presentation </a> </h3>
+<h3> * <a href=""> AR Demo </a> </h3>
  
 ## License
 
