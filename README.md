@@ -15,8 +15,8 @@
 # About
 
  
-<div align="center">  
-	<h3>NU-Connect provide services and contains information regarding nearby places, cab appointments, virtual tour, food ordering fron inner as well as outer food hubs of NU and so much more!</h3>
+<div>  
+	<p>NU-Connect provide services and contains information regarding nearby places, cab appointments, virtual tour, food ordering fron inner as well as outer food hubs of NU and so much more!</p>
 
 </div>
 
