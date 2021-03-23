@@ -1,5 +1,9 @@
 <h1 align="center"> NU Connect </h1>
 
+![open issues](https://img.shields.io/github/issues/somanyadav/NU-Connect?color=%2319a249) ![open PR](https://img.shields.io/github/issues-pr-closed/somanyadav/NU-Connect?color=%23f25f56) ![license](https://img.shields.io/github/license/somanyadav/NU-Connect) ![forks](https://img.shields.io/github/forks/somanyadav/NU-Connect?style=social)
+
+
+
 <div align="center">
   <img alt="NU-Connect logo" src="https://i.imgur.com/MGJNqi9.png" width="500px" />
 </div>
