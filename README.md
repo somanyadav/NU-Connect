@@ -12,7 +12,7 @@
 </p>
 
 
-<h1 align="center"> NU Connect </h1>
+# About
 
  
 <div align="center">  
