@@ -12,13 +12,24 @@
 </p>
 
 
-## About
+## What is NU Connect?
 
  
 <div>  
 	<p>NU-Connect provide services and contains information regarding nearby places, cab appointments, virtual tour, food ordering fron inner as well as outer food hubs of NU and so much more!</p>
 
 </div>
+
+## Contents
+1. Preview
+2. Installation
+3. Screenshots
+4. Tech Stack
+5. Prerequisites
+6. Links
+7. License
+8. Acknowledgement
+9. Contributors
 
  ## Preview
 
@@ -33,7 +44,7 @@
  
 ## Tech Stack
  
-## Requirements
+## Prerequisites
 
 ## Links
  - <a href="https://drive.google.com/file/d/19Lw7Lm4AuOa_EAc_3ttaeFA3pedjB1EE/view?usp=sharing"> Presentation </a> 
@@ -42,6 +53,7 @@
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
+## Acknowledgement
 
 ## Contributors
 <table>
