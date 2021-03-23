@@ -27,13 +27,13 @@
  </div>
  
  
-## Installation and Documentation
+## Installation
 
 ## Screenshots
  
 ## Tech Stack
  
-# Requirements
+## Requirements
 
 ## Links
 <h3> -> <a href="https://drive.google.com/file/d/19Lw7Lm4AuOa_EAc_3ttaeFA3pedjB1EE/view?usp=sharing"> Presentation </a> </h3>
