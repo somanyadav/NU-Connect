@@ -40,8 +40,7 @@
  - <a href=""> AR Demo </a> </h3>
  
 ## License
-
-**NU Connect** is released under the terms of the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 
 ## Contributors
