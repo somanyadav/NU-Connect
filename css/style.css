@@ -1,5 +1,3 @@
-
-
 body {
   background: #fff;
   color: #2f3138;
@@ -685,7 +683,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /*--------------------------------------------------------------
-# Apps Section
+# Speakers Section
 --------------------------------------------------------------*/
 
 #speakers {
@@ -782,7 +780,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /*--------------------------------------------------------------
-# Apps Contd..
+# Schedule Section
 --------------------------------------------------------------*/
 
 #schedule {
@@ -880,7 +878,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /*--------------------------------------------------------------
-# FAQ Section
+# Venue Section
 --------------------------------------------------------------*/
 
 #venue {
@@ -945,6 +943,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   transform: scale(1.1);
 }
 
+/*--------------------------------------------------------------
+# Hotels Section
+--------------------------------------------------------------*/
 
 #hotels {
   padding: 60px 0;
@@ -1001,6 +1002,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-style: italic;
   font-size: 15px;
 }
+
+
+/*--------------------------------------------------------------
+# supporters Section
+--------------------------------------------------------------*/
 
 #supporters {
   padding: 60px 0;
