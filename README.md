@@ -10,7 +10,7 @@
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
  </a>
  <img alt="Open in Chrome" title="Chrome" src="https://i.imgur.com/ZIhDtNR.png" width="140">
- <a href="www.somanyadav.me/nu-connect/">
+ <a href="www.somanyadav.me/nu-connect/"><br>
  Click Here	
  </a>
  
