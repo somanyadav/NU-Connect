@@ -44,6 +44,21 @@ NU Connect is available on Play Store.
 ## Screenshots
  
 ## Tech Stack
+* **Front-End**	
+	* HTML
+	* CSS
+	* Bootstrap
+	* Javascript
+	* Unity
+																					
+* **Back-End**
+	* Php/Flask
+	* SQL
+	* Java
+	* EchoAr
+	
+
+ 
  
 ## Prerequisites
 
