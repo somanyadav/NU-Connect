@@ -9,7 +9,7 @@
  <img alt="Open in Chrome" title="Chrome" src="https://i.imgur.com/ZIhDtNR.png" width="140">
 </p>
 
-##  NU Connect?
+##  What is NU Connect?
 
 <div>  
 <p>NU-Connect provide services and contains information regarding nearby places, cab appointments, virtual tour, food ordering from inner as well as outer food hubs of NU and so much more!</p>
