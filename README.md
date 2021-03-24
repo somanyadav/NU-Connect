@@ -7,12 +7,6 @@
 <p align="center">
   <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
  <img alt="Open in Chrome" title="Chrome" src="https://i.imgur.com/ZIhDtNR.png" width="140">
- <a href="www.somanyadav.me/nu-connect/"><br>
- Click Here	
- </a>
- <a href="www.somanyadav.me/nu-connect/"><br>
- Click Here	
- </a>
  
 </p>
 
@@ -69,6 +63,7 @@ NU Connect is available on Play Store.
 ## Prerequisites
 
 ## Links
+ - <a href="http://somanyadav.me/NU-Connect/"> Site </a>
  - <a href="https://drive.google.com/file/d/19Lw7Lm4AuOa_EAc_3ttaeFA3pedjB1EE/view?usp=sharing"> Presentation </a> 
  - <a href=""> AR Demo </a> </h3>
  
