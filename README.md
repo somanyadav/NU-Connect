@@ -55,6 +55,7 @@ NU Connect is available on Play Store.
 	* Php/Flask
 	* SQL
 	* Java
+	* Google Apps Script
 	* EchoAr
 	
 
