@@ -8,7 +8,7 @@
   <a href="#">
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
 	  </a>
- <a href="#">
+ <a href="somanyadav.me/nu-connect/">
     <img alt="Open in Chrome" title="Chrome" src="https://i.imgur.com/ZIhDtNR.png" width="140">
   </a>
 </p>
