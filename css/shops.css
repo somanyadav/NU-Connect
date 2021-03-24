@@ -1,0 +1,43 @@
+.card{
+    background-color: #FFFFFF;
+    padding:0;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius:4px;
+    box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.3);
+}
+
+
+.card:hover{
+    box-shadow: 0 16px 24px 2px rgba(0,0,0,0.14), 0 6px 30px 5px rgba(0,0,0,0.12), 0 8px 10px -5px rgba(0,0,0,0.3);
+    color:black;
+}
+
+address{
+  margin-bottom: 0px;
+}
+
+
+
+
+#author a{
+  color: #fff;
+  text-decoration: none;
+    
+}
+.maps1 {
+	padding-top: 0px;
+	position: relative;
+}
+
+.maps2 {
+	padding-top: 0px;
+	padding-bottom:50px;
+}
+.text1 {
+	padding-top:150px
+}
+.text2 {
+	padding-top:50px;
+	padding-bottom :50px;
+}
