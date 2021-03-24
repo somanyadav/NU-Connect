@@ -1,48 +1,71 @@
+<h1> NU Connect </h1>
+
 <div align="center">
   <img alt="NU-Connect logo" src="https://i.imgur.com/MGJNqi9.png" width="500px" />
 </div>
- 
+
 <p align="center">
-  <a href="#">
-    <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
-    <img alt="Open in Chrome" title="Chrome" src="https://i.imgur.com/ZIhDtNR.png" width="140">
-  </a>
+  <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
+ <img alt="Open in Chrome" title="Chrome" src="https://i.imgur.com/ZIhDtNR.png" width="140">
 </p>
-
-
-<h1 align="center"> NU Connect </h1>
-
- 
-<div align="center">  
-	<h3>NU-Connect provide services and contains information regarding nearby places, cab appointments, virtual tour, food ordering fron inner as well as outer food hubs of NU and so much more!</h3>
+## What is NU Connect?
+<div>  
+<p>NU-Connect provide services and contains information regarding nearby places, cab appointments, virtual tour, food ordering from inner as well as outer food hubs of NU and so much more!</p>
 
 </div>
 
- # Preview
+## Contents
+1. Preview
+2. Installation
+3. Screenshots
+4. Tech Stack
+5. Prerequisites
+6. Links
+7. License
+8. Acknowledgement
+9. Contributors
 
+ ## Preview
+ 
  <div align="center">
   <img alt="NU-Connect logo" src="https://i.imgur.com/KuddZoJ.png" width="1000px" />
  </div>
- 
- 
-# Installation and Documentation
-
-# Screenshots
- 
-# Tech Stack
- 
-# Requirements
-
-# Links
-<h3> -> <a href="https://drive.google.com/file/d/19Lw7Lm4AuOa_EAc_3ttaeFA3pedjB1EE/view?usp=sharing"> Presentation </a> </h3>
-<h3> -> <a href=""> AR Demo </a> </h3>
- 
-# License
-
-### NU Connect is released under the terms of the [MIT License](LICENSE).
 
 
-# Team
+## Installation
+NU Connect is available on Play Store.
+
+## Screenshots
+
+## Tech Stack
+* **Front-End**	
+	* HTML
+	* CSS
+	* Bootstrap
+	* Javascript
+	* Unity
+
+* **Back-End**
+	* Php/Flask
+	* SQL
+	* Java
+	* Google Apps Script
+	* EchoAr
+
+
+## Prerequisites
+## Links
+ - <a href="https://drive.google.com/file/d/19Lw7Lm4AuOa_EAc_3ttaeFA3pedjB1EE/view?usp=sharing"> Presentation </a> 
+ - <a href=""> AR Demo </a> </h3>
+
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgement
+
+## Contributors
+
 <table>
 	<thead>
 	<tr>
@@ -68,3 +91,7 @@
 		</td>
 	</tr>
 </table>
+
+
+
+	
