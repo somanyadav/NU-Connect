@@ -50,7 +50,7 @@ Download the zip file of this repository. You can view the front end part of the
  
 ***Now Connecting Database***
 
-##### 4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
+##### 4th Step: Open a browser and go to URL “ http://localhost/phpmyadmin/ ”
 
 ##### 5th Step: Then, click on the databases tab
 
@@ -62,9 +62,9 @@ Download the zip file of this repository. You can view the front end part of the
 
 ***After Creating Database,***
 
-##### 9th Step: Open a browser and go to URL “http://localhost/FoodZone/”
+##### 9th Step: Open a browser and go to URL “ http://localhost/FoodZone/ ”
 
-***For the admin section go to “http://localhost/FoodZone/managerlogin.php”***
+***For the admin section go to “ http://localhost/FoodZone/managerlogin.php ”***
 
 <br>
 
