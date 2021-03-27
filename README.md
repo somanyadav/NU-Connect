@@ -16,14 +16,14 @@
 </div>
 
 ## Contents
-1. Preview
-2. Installation
-3. Tech Stack
-4. Prerequisites
-5. Links
-6. License
-7. Acknowledgement
-8. Contributors
+1. [Preview](https://github.com/somanyadav/NU-Connect/blob/main/README.md#preview)
+2. [Installation](https://github.com/somanyadav/NU-Connect/blob/main/README.md#installation)
+3. [Tech Stack](https://github.com/somanyadav/NU-Connect/blob/main/README.md#tech-stack)
+4. [Prerequisites](https://github.com/somanyadav/NU-Connect/blob/main/README.md#prerequisites)
+5. [Links](https://github.com/somanyadav/NU-Connect/blob/main/README.md#links)
+6. [License](https://github.com/somanyadav/NU-Connect/blob/main/README.md#license)
+7. [Acknowledgement](https://github.com/somanyadav/NU-Connect/blob/main/README.md#acknowledgement)
+8. [Contributors](https://github.com/somanyadav/NU-Connect/blob/main/README.md#contributors)
 
  ## Preview
  
