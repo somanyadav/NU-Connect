@@ -93,6 +93,7 @@ Download EchoAR Go app from the playstore or appstore. The AR functionality will
 Check the following prerequisites, all of these should be present in order to function effectively.
 
  -> Mobile device should have Android v7 or above
+ 
  -> User should be having NIIT Email in order to avail various services
  
 
