@@ -67,6 +67,12 @@ Download the zip file of this repository. You can view the front end part of the
 
 ***For the admin section go to “http://localhost/FoodZone/managerlogin.php”***
 
+<br>
+<br>
+
+Viewing AR I-D Cards
+Download EchoAR Go app from the playstore or appstore. The AR functionality will work in Andrid version 7 and above
+
 
 ## Screenshots
 
