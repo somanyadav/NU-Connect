@@ -34,9 +34,9 @@
 
 
 ## Installation
-Download the zip file of this repository. 
+Download the zip file of this repository. You can view the front end part of the project.
 
-RUN THE APPLICATION
+### RUN THE APPLICATION
 ***After Starting Apache and MySQL in XAMPP, follow the following steps.***
 
 ##### 1st Step: Extract file
