@@ -1,0 +1,109 @@
+<html>
+<head>
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+</head>
+<body>
+<style>
+.paymentWrap {
+	padding: 50px;
+}
+
+.paymentWrap .paymentBtnGroup {
+	max-width: 800px;
+	margin: auto;
+}
+
+.paymentWrap .paymentBtnGroup .paymentMethod {
+	padding: 40px;
+	box-shadow: none;
+	position: relative;
+}
+
+.paymentWrap .paymentBtnGroup .paymentMethod.active {
+	outline: none !important;
+}
+
+.paymentWrap .paymentBtnGroup .paymentMethod.active .method {
+	border-color: #4cd264;
+	outline: none !important;
+	box-shadow: 0px 3px 22px 0px #7b7b7b;
+}
+
+.paymentWrap .paymentBtnGroup .paymentMethod .method {
+	position: absolute;
+	right: 3px;
+	top: 3px;
+	bottom: 3px;
+	left: 3px;
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 2px solid transparent;
+	transition: all 0.5s;
+}
+
+.paymentWrap .paymentBtnGroup .paymentMethod .method.visa {
+	background-image: url("https://pbs.twimg.com/profile_images/1242803598083395585/4cWZptzw_400x400.jpg");
+}
+
+.paymentWrap .paymentBtnGroup .paymentMethod .method.master-card {
+	background-image: url("https://securecdn.pymnts.com/wp-content/uploads/2020/01/Score-Card-Company-Image-25.png");
+}
+
+.paymentWrap .paymentBtnGroup .paymentMethod .method.amex {
+	background-image: url("https://lh3.googleusercontent.com/AeMKuV3iGZsHPeSU_g13oYW0msutmjt3QiEbJvTiMh6dqFvyeTS-LHVs4Sa0d9q7RElI");
+}
+
+.paymentWrap .paymentBtnGroup .paymentMethod .method.vishwa {
+	background-image: url("https://images.freekaamaal.com/post_images/1554869659.jpg");
+}
+
+
+
+.paymentWrap .paymentBtnGroup .paymentMethod .method:hover {
+	border-color: #4cd264;
+	outline: none !important;
+}
+
+</style>
+<div class="container">
+	<div class="row">
+		<div class="paymentCont">
+						<center><div class="headingWrap">
+								<h3 class="headingTop text-center">Select Your Payment Method</h3>	
+								
+						</div></center>
+						<div class="paymentWrap">
+							<div class="btn-group paymentBtnGroup btn-group-justified" data-toggle="buttons">
+					            <label class="btn paymentMethod active">
+					            	<div class="method visa"></div>
+					                <input type="radio" name="options" checked> 
+					            </label>
+					            <label class="btn paymentMethod">
+					            	<div class="method master-card"></div>
+					                <input type="radio" name="options"> 
+					            </label>
+					            <label class="btn paymentMethod">
+				            		<div class="method amex"></div>
+					                <input type="radio" name="options">
+					            </label>
+					             <label class="btn paymentMethod">
+				             		<div class="method vishwa"></div>
+					                <input type="radio" name="options"> 
+					            </label>
+					            
+					         
+					        </div>        
+						</div>
+						<div class="footerNavWrap clearfix">
+							
+							<div><a href="COD.php"><button>CHECKOUT</button></a></div>
+						</div>
+					</div>
+		
+	</div>
+</div>
+</body>
+</html>
