@@ -18,13 +18,12 @@
 ## Contents
 1. Preview
 2. Installation
-3. Screenshots
-4. Tech Stack
-5. Prerequisites
-6. Links
-7. License
-8. Acknowledgement
-9. Contributors
+3. Tech Stack
+4. Prerequisites
+5. Links
+6. License
+7. Acknowledgement
+8. Contributors
 
  ## Preview
  
@@ -73,8 +72,6 @@ Download the zip file of this repository. You can view the front end part of the
 
 Download EchoAR Go app from the playstore or appstore. The AR functionality will work in Andrid version 7 and above
 <br>
-
-## Screenshots
 
 ## Tech Stack
 * **Front-End**	
