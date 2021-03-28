@@ -221,6 +221,11 @@ body {
   -webkit-background-clip: text;
   -webkit-text-fill-color: rgba(255, 255, 255, 0);
 }
+.bigg {
+	color:white; 
+	text-align:center; 
+	font-size:60px;
+}
 
 @keyframes animate {
   0% {
@@ -228,6 +233,15 @@ body {
   }
   100% {
     background-position: 500%;
+  }
+}
+@media (max-width: 540px) {
+  .shine {
+  font-size: 3em;
+  text-align:center;
+  }
+  .bigg {
+	 font-size: 50px;
   }
 }
 
