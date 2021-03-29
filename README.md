@@ -1,4 +1,4 @@
-<h1> NU Connect </h1>
+<h1> NU Connec </h1>
 
 <div align="center">
   <img alt="NU-Connect logo" src="https://i.imgur.com/MGJNqi9.png" width="500px" />
