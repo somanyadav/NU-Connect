@@ -39,30 +39,30 @@ Download the zip file of this repository. You can view the front end part of the
 
 <b>RUN THE APPLICATION</b>
 
-***After Starting Apache and MySQL in XAMPP, follow the following steps.***
+After Starting Apache and MySQL in XAMPP, follow the following steps.
 
-##### 1st Step: Extract file
+**1st Step:** Extract file
 
-##### 2nd Step: Copy the main project folder
+**2nd Step:** Copy the main project folder
 
-##### 3rd Step: Paste in xampp/htdocs/
+**3rd Step:** Paste in xampp/htdocs/
 
  
 ***Now Connecting Database***
 
-##### 4th Step: Open a browser and go to URL “ http://localhost/phpmyadmin/ ”
+**4th Step:** Open a browser and go to URL “ http://localhost/phpmyadmin/ ”
 
-##### 5th Step: Then, click on the databases tab
+**5th Step:** Then, click on the databases tab
 
-##### 6th Step: Create a database naming “foodorder” and then click on the import tab
+**6th Step:** Create a database naming “foodorder” and then click on the import tab
 
-##### 7th Step: Click on browse file and select “foodorder.sql” file which is inside the “FoodZone” folder
+**7th Step:** Click on browse file and select “foodorder.sql” file which is inside the “FoodZone” folder
 
-##### 8th Step: Click on go.
+**8th Step:** Click on go.
 
 ***After Creating Database,***
 
-##### 9th Step: Open a browser and go to URL “ http://localhost/FoodZone/ ”
+**9th Step:** Open a browser and go to URL “ http://localhost/FoodZone/ ”
 
 ***For the admin section go to “ http://localhost/FoodZone/managerlogin.php ”***
 
@@ -92,9 +92,8 @@ The AR functionality will work in Andrid version 7 and above
 ## Prerequisites
 Check the following prerequisites, all of these should be present in order to function effectively.
 
- -> Mobile device should have Android v7 or above
- 
- -> User should be having NIIT Email in order to avail various services
+ * Mobile device should have Android v7 or above
+ * User should be having NIIT Email in order to avail various services
  
 
 ## Links
