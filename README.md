@@ -101,6 +101,7 @@ Check the following prerequisites, all of these should be present in order to fu
  - <a href="https://drive.google.com/file/d/19Lw7Lm4AuOa_EAc_3ttaeFA3pedjB1EE/view?usp=sharing"> Presentation </a> 
  - <a href=""> AR Demo </a> </h3>
  - <a href="http://student.nuconnect.tech/"> Website Link </a> </h3>
+ - <a href="http://admin.nuconnect.tech/"> Admin website Link </a> </h3>
  - <a href="https://play.google.com/store/apps/details?id=com.kushagra.application.connect_nu_testapp"> App Link </a> </h3>
 
 
