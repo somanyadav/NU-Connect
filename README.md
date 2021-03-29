@@ -109,6 +109,7 @@ Check the following prerequisites, all of these should be present in order to fu
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgement
+We will always be grateful to Manaaf for his constructive feedbacks and supportive mentoring during this project. Thanks for being a good mentor and for guiding us on the right path.
 
 ## Contributors
 
