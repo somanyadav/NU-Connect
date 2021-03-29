@@ -100,7 +100,7 @@ Check the following prerequisites, all of these should be present in order to fu
  - <a href="https://drive.google.com/file/d/19Lw7Lm4AuOa_EAc_3ttaeFA3pedjB1EE/view?usp=sharing"> Presentation </a> 
  - <a href="https://www.youtube.com/watch?v=UKBpje2I2Vk"> Demo </a> </h3>
  - <a href="https://drive.google.com/folderview?id=124ZejC3L6IMLiPp66Su6LM1dgadYwkdM"> App Demo </a> </h3>
- - <a href="https://i.imgur.com/vJbC1wk.mp4"> AR Demo </a> </h3>
+ - <a href="https://drive.google.com/file/d/19rXf6YbcFUVpBYB-GcMo_-d_DHJwEl8f/view?usp=sharing"> AR Demo </a> </h3>
  - <a href="http://student.nuconnect.tech/"> Website Link </a> </h3>
  - <a href="http://admin.nuconnect.tech/"> Admin website Link </a> </h3>
  - <a href="https://play.google.com/store/apps/details?id=com.kushagra.application.connect_nu_testapp"> App Link </a> </h3>
