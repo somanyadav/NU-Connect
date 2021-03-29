@@ -70,7 +70,7 @@ After Starting Apache and MySQL in XAMPP, follow the following steps.
 
 <b>Viewing AR ID Cards</b>
 
-The AR functionality will work in Andrid version 7 and above
+The AR functionality will work in Andrid version7.0 and above
 <br>
 
 ## Tech Stack
